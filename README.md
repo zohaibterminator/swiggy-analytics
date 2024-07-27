@@ -1,6 +1,6 @@
 # Swiggy Data Analysis Project
 
-This project focuses on analyzing Swiggy's user and order data to derive actionable insights that can help optimize business strategies and enhance customer satisfaction. The analysis involves multiple SQL queries across various datasets, providing a comprehensive understanding of customer behavior, restaurant performance, and overall platform dynamics.
+This project focuses on analyzing Swiggy's user and order data to derive actionable insights that can help optimize business strategies and enhance customer satisfaction. The analysis involves multiple SQL queries across various datasets, providing a comprehensive understanding of customer behavior, restaurant performance, and overall platform dynamics. This dataset was part of a case study, if you want to participate in it as well, you can do so [here](https://medium.com/@mahnoor88355729)
 
 # Database Schema
 
